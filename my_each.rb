@@ -8,4 +8,5 @@ def my_each(array)
     array
   else
     "Game over man, Game over!"
+  end
 end
